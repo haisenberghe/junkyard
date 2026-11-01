@@ -8,6 +8,7 @@ Open `index.html` in a browser. Listings, locations, prices, and event dates are
 
 ## Included in this prototype
 
+- Photo-led design using the provided Kenyan highland landscape
 - Browse and filter stays and tours
 - Search sample listings by location
 - View pop-up cinema listings
