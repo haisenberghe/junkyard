@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 180" role="img" aria-labelledby="title desc">
+<title id="title">Junkyard</title><desc id="desc">Junkyard wordmark with a sunset over mountains, a towable cabin trailer and a cactus.</desc>
+<defs><linearGradient id="sky" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e8f0df"/><stop offset="1" stop-color="#f5d5a2"/></linearGradient></defs>
+<rect x="8" y="8" width="164" height="164" rx="34" fill="url(#sky)"/>
+<circle cx="125" cy="59" r="28" fill="#e88958"/>
+<path d="M16 115 60 58l27 31 25-42 54 69v41H16z" fill="#71896d"/>
+<path d="m16 119 41-40 23 24 29-26 57 44v35H16z" fill="#385c48"/>
+<path d="M16 134q42-9 81 0t75 0v32H16z" fill="#b7bc83"/>
+<path d="M31 166q47-8 91 0t50-1" fill="none" stroke="#75865d" stroke-width="3"/>
+<g stroke="#244333" stroke-width="3" stroke-linejoin="round">
+ <path d="M36 111h76q8 0 8 8v29H31v-32q0-5 5-5Z" fill="#fff5df"/>
+ <path d="M42 117h25v17H42zm31 0h39v17H73z" fill="#80aaa4" stroke-width="2"/>
+ <path d="M29 139h94v10H29z" fill="#d57d51"/>
+ <circle cx="49" cy="151" r="8" fill="#21372c"/><circle cx="103" cy="151" r="8" fill="#21372c"/>
+ <path d="m119 143 19-6 10 2" fill="none"/>
+ <path d="M148 138v12" fill="none" stroke-width="2"/>
+</g>
+<g fill="none" stroke="#30563c" stroke-width="6" stroke-linecap="round">
+ <path d="M151 136V94m0 22q-15 0-16-15m16 7q13 0 14-16"/>
+</g>
+<text x="203" y="91" fill="#1d3f30" font-family="Arial,Helvetica,sans-serif" font-size="57" font-weight="700" letter-spacing="-2">JUNKYARD</text>
+<text x="207" y="124" fill="#607567" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="3.1">TOWABLE OUTDOOR ESCAPES</text>
+</svg>
+
